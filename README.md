@@ -5,12 +5,13 @@
 
 # The folder structure
 - The folder structure is as shown below.
-  :![image](https://github.com/user-attachments/assets/462c9bfe-af6f-40ff-8144-58f8f2068b7d)
+  ![image](https://github.com/user-attachments/assets/462c9bfe-af6f-40ff-8144-58f8f2068b7d)
 
 # Additional condition
 - You must download all data files, faiss, json files inside the folder and then run the code.
-  [DRIVE LINK FOR DOWNLOAD ADDITIONAL FILES] :
-
+  [DRIVE LINK FOR DOWNLOAD ADDITIONAL FILES] 
+  1) data : https://drive.google.com/drive/folders/1G4sgjMZAqgVP2-SPrU64tE3FvAjKL9dS?usp=drive_link
+  2) documents : https://drive.google.com/drive/folders/1NBUCmxEFEIg__m0GKt-pX3145VOZKhkR?usp=drive_link
 
    
 - In data folder 
