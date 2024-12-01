@@ -4,7 +4,7 @@
 - 24-Fall Natural Language Processing project
 
 # The folder structure
-- The folder structure is as shown below.
+- The folder structure is as shown
   ![image](https://github.com/user-attachments/assets/462c9bfe-af6f-40ff-8144-58f8f2068b7d)
 
 # Additional condition
