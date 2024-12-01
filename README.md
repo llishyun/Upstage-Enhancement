@@ -12,13 +12,8 @@
   [DRIVE LINK FOR DOWNLOAD ADDITIONAL FILES] 
   1) data : https://drive.google.com/drive/folders/1G4sgjMZAqgVP2-SPrU64tE3FvAjKL9dS?usp=drive_link
   2) documents : https://drive.google.com/drive/folders/1NBUCmxEFEIg__m0GKt-pX3145VOZKhkR?usp=drive_link
-
-   
-- In data folder 
+  3) data folder structure 
    ![image](https://github.com/user-attachments/assets/b2b4b6c4-16a6-4282-bba3-8bd1e825fdf9)
-
-
-
-- In documents folder
+  4) documents folder structure
    ![image](https://github.com/user-attachments/assets/eeb062ce-457b-4589-b0f2-0dd926868c32)
 
