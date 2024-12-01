@@ -3,4 +3,5 @@
 - solar-1-mini-chat as the backbone LLM
 - 24-Fall Natural Language Processing project
 
-#You must download all data files, faiss, json files inside the folder and then run the code.
+# You must download all data files, faiss, json files inside the folder and then run the code.
+![Uploading image.png…]()
