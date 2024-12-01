@@ -14,10 +14,10 @@
 
    
 - In data folder 
-  : ![image](https://github.com/user-attachments/assets/b2b4b6c4-16a6-4282-bba3-8bd1e825fdf9)
+   ![image](https://github.com/user-attachments/assets/b2b4b6c4-16a6-4282-bba3-8bd1e825fdf9)
 
 
 
 - In documents folder
-  : ![image](https://github.com/user-attachments/assets/eeb062ce-457b-4589-b0f2-0dd926868c32)
+   ![image](https://github.com/user-attachments/assets/eeb062ce-457b-4589-b0f2-0dd926868c32)
 
